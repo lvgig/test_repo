@@ -1,0 +1,8 @@
+# Details about the Conda environment file format:
+# https://conda.io/docs/user-guide/tasks/manage-environments.html#create-env-file-manually
+
+name: test_env
+channels:
+  - conda-forge
+dependencies:
+  - pandas
